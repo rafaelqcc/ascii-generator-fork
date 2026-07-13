@@ -110,7 +110,7 @@ That's it. No `npm install`, no dependencies, no build step.
 | Style | Fonts |
 |---|---|
 | Block / Banner | Banner3-D, Banner3, Block, Colossal, Chunky |
-| 3D | 3D-DIAGONAL, 3D-ASCII, Isometric1, Larry 3D |
+| 3D | 3D-ASCII, Isometric1, Larry 3D |
 | Shadow | ANSI Shadow, Shadow |
 | Grunge | Graffiti, Bloody, Gothic |
 | Classic | Standard, Big, Roman, Slant, Epic |
