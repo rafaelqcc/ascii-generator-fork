@@ -1,8 +1,72 @@
-Github Pages: https://rafaelqcc.github.io/ascii-generator/
+Github Pages:
+https://rafaelqcc.github.io/ascii-generator/
 
 # ASCII Generator
 
 Single-file ASCII art generator. Type text, pick a font, export as PNG, SVG, or TXT. Fully offline — no install, no server, no internet required.
+
+# Local Server Requirements (Optional)
+
+The local server is optional and only needed if your browser has limitations when opening local HTML files or does not allow some JavaScript features to run from "file://".
+
+# Install Node.js
+
+# Windows
+
+Download and install Node.js from the official website:
+
+```
+https://nodejs.org/
+```
+
+After installation, verify:
+
+```
+node --version
+```
+
+# Linux
+
+Debian/Ubuntu:
+
+```
+sudo apt install nodejs
+```
+
+Arch Linux:
+
+```
+sudo pacman -S nodejs
+```
+
+Termux (Android)
+
+Install Node.js with:
+
+```bash
+pkg update
+pkg install nodejs
+```
+
+Verify:
+
+```bash
+node --version
+```
+
+Start the local server
+
+Inside the project folder:
+
+```
+node server.js
+```
+
+Then open:
+
+```
+http://127.0.0.1:8080
+```
 
 ## Quick Start
 
@@ -19,7 +83,12 @@ start index.html       # Windows
 xdg-open index.html    # Linux
 ```
 
-That's it. No `npm install`, no build step, no server.
+Or start the local server:
+```bash
+node server.js
+```
+
+That's it. No `npm install`, no dependencies, no build step.
 
 ## Features
 
