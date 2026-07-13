@@ -1,3 +1,5 @@
+Github Pages: https://rafaelqcc.github.io/ascii-generator/
+
 # ASCII Generator
 
 Single-file ASCII art generator. Type text, pick a font, export as PNG, SVG, or TXT. Fully offline — no install, no server, no internet required.
@@ -5,12 +7,12 @@ Single-file ASCII art generator. Type text, pick a font, export as PNG, SVG, or 
 ## Quick Start
 
 **Option 1 — Download directly**
-1. Download [`index.html`](https://raw.githubusercontent.com/wonsukchoi/ascii-generator/main/index.html)
+1. Download [`index.html`](https://raw.githubusercontent.com/rafaelqcc/ascii-generator/main/index.html)
 2. Open it in your browser
 
 **Option 2 — Clone the repo**
 ```bash
-git clone https://github.com/wonsukchoi/ascii-generator.git
+git clone https://github.com/rafaelqcc/ascii-generator.git
 cd ascii-generator
 open index.html        # macOS
 start index.html       # Windows
