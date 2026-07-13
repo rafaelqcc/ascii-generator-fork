@@ -310,7 +310,7 @@
 <script>window.onload=function(){window.print();window.close();}<\/script></body></html>`);
       win.document.close();
     }
-
+    // Add font here
     const FONT_LIST = [
       'Banner3-D','Banner3','Block','ANSI Shadow','Big','Doom','Epic',
       'Larry 3D','Rectangles','Slant','Standard','3D-DIAGONAL','3D-ASCII','Bloody',
