@@ -313,7 +313,7 @@
 
     const FONT_LIST = [
       'Banner3-D','Banner3','Block','ANSI Shadow','Big','Doom','Epic',
-      'Larry 3D','Rectangles','Slant','Standard','3D-ASCII','Bloody',
+      'Larry 3D','Rectangles','Slant','Standard','3D-DIAGONAL','3D-ASCII','Bloody',
       'Calvin S','Chunky','Colossal','Cyberlarge','Gothic','Graffiti',
       'Isometric1','Ogre','Puffy','Roman','Shadow','Speed','Star Wars','Varsity',
       'Alligator','Big Money-ne','Bulbhead','Impossible','Lean','Mini','Nancyj','Soft',
