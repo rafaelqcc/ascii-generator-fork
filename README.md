@@ -1,5 +1,5 @@
 Github Pages:
-https://rafaelqcc.github.io/ascii-generator/
+https://rafaelqcc.github.io/ascii-generator-fork/
 
 # ASCII Generator
 
